@@ -1,0 +1,25 @@
+  .player-console{
+    display: none;
+  }
+.jumbotron{
+  background-image: url(https://www.clipartmax.com/png/middle/217-2178368_dice-clipart-roll-dice-bet-clipart.png);
+  height: 600px;
+  width: 900px;
+
+}
+.col-md-6{
+  float: right;
+
+
+}
+.mk2{
+  float: right;
+  margin-right: 300px;
+
+}
+.mk1{
+  float: left;
+}
+body{
+  background-color: black;
+}
